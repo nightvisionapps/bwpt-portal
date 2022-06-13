@@ -43,7 +43,7 @@ const Home: NextPage = () => {
         </form>
         <br/>
         <form>
-          <center><button type="button">Log in with Google</button></center>
+          <button type="button">Log in with Google</button>
         </form>
       </div>
       
